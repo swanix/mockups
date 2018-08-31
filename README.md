@@ -1,4 +1,4 @@
-# BrandSpaces
+# Brand Simulator
 Simulador de marcas. Work in progress...
 
 Proyecto experimental para simular marcas en espacios digitales y físicos.
